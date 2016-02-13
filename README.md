@@ -1,6 +1,6 @@
-#Basic Project
+#Basic Automation Project
 
-Basic Java Maven Project Structure
+Basic Java  Automation Project
 
 *QA
 *Java
