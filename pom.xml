@@ -7,6 +7,11 @@
   <description>Basic Automation Project</description>
   <dependencies>
   <dependency>
+	<groupId>org.seleniumhq.selenium</groupId>
+	<artifactId>selenium-java</artifactId>
+	<version>2.42.2</version>
+</dependency>
+  <dependency>
 	<groupId>org.testng</groupId>
 	<artifactId>testng</artifactId>
 	<version>6.9.6</version>
