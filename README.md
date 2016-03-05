@@ -1,9 +1,10 @@
-#Basic Automation Project
+#Read File Json Project
 
-Basic Java  Automation Project
+Read file using Json Project
 
 *QA
 *Java
 *Maven
+*Json
 
 [Denis Umanets](http://sqasolution.com)
